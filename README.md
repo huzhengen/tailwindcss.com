@@ -1,29 +1,29 @@
-# Tailwind CSS Documentation
+# Tailwind CSS 文档
 
-Tailwind CSS uses [Next.js](https://nextjs.org/) for its documentation. Here is how you can run the project locally:
+Tailwind CSS 文档使用 [Next.js](https://nextjs.org/)。下面介绍如何在本地运行项目：
 
-1. Clone this repo
+1. 克隆该仓库
 
     ```sh
     git clone https://github.com/tailwindlabs/tailwindcss.com.git
     ```
 
-2. Go into the project root directory
+2. 进入项目根目录
 
     ```sh
     cd tailwindcss.com
     ```
 
-3. Install JS dependencies
+3. 安装 JS 依赖
 
     ```sh
     yarn
     ```
 
-4. Start the dev server
+4. 启动开发服务器
 
     ```sh
     yarn dev
     ```
 
-Alternatively you can generate a static export of the documentation using the `yarn export` command. The export will be saved in the `out` folder.
+另外，你也可以使用 `yarn export` 命令生成文档的静态导出。导出将保存在 `out` 文件夹中。
